@@ -1,1 +1,0 @@
-# Diabetes-Detection-Using-KNN-Classifier
